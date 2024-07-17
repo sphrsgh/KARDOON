@@ -1,5 +1,5 @@
 # kardoon
-![Alt text](https://github.com/sphrsgh/kardoon/blob/main/assets/splash/Splash%20Artboard.png?raw=true "Optional title")
+![Alt text](https://github.com/sphrsgh/kardoon/blob/main/assets/splash/Splash%20Artboard.png?raw=true "Logo")
 
 A new Flutter project.
 Online To-Do task manager with shamsi calendar.
