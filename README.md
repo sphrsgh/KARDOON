@@ -19,3 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 # Going Online
 
 Upload the "Backend (upload to cpanel host)" folder information to your host and edit the "kardoon\Backend (upload to cpanel host)\db\config.php" and "kardoon\lib\backends\database.dart" files to go online.
+
+# kardoon
