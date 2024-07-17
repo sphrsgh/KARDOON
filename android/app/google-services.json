@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418591353446",
+    "project_id": "kardoondb",
+    "storage_bucket": "kardoondb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418591353446:android:5d3022b802845dc7275ba7",
+        "android_client_info": {
+          "package_name": "com.sase.kardoon.kardoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418591353446-34pg7jj8ooeusi6faua2q3jbbobihe4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1WL6u6GyPjDy0hfEbes6nl3vZDVlIOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418591353446-34pg7jj8ooeusi6faua2q3jbbobihe4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
