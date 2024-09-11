@@ -6,7 +6,7 @@ Online To-Do task manager with shamsi calendar.
 
 # Going Online
 
-Upload the "Backend (upload to cpanel host)" folder information to your host and edit the "kardoon\Backend (upload to cpanel host)\db\config.php" and "kardoon\lib\backends\database.dart" files to go online.
+Upload the "Backend (upload to cpanel host)" folder to your host and edit the "kardoon\Backend (upload to cpanel host)\db\config.php" and "kardoon\lib\backends\database.dart" files to go online.
 
 # Screenshots
 
